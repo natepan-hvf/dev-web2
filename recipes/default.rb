@@ -1,5 +1,5 @@
 #
-# Cookbook Name:: web-app
+# Cookbook Name:: dev-web2
 # Recipe:: default
 #
 #
